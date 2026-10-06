@@ -1,145 +1,117 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Gabriel%20Lopes&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%40%20PUC-Campinas%20%7C%20Backend%20Developer&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:444444&height=200&section=header&text=Gabriel%20Lopes%20Londe%20Rodrigues&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Engenharia%20de%20Software%20(PUC-Campinas)%20%7C%20Back-end&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lopes-londe-rodrigues-1a8154304/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lopesloro)
-[![Location](https://img.shields.io/badge/Campinas%2C%20SP-Brasil-009c3b?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Open to Work](https://img.shields.io/badge/Open%20to-Internships-f7df1e?style=for-the-badge&logo=handshake&logoColor=black)](#)
+**Estudante de Engenharia de Software (PUC-Campinas) | Back-end · Python · FastAPI · Node.js · SQL**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lopes-londe-rodrigues-1a8154304/)
+[![E-mail](https://img.shields.io/badge/E--mail-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriellopeslonde@gmail.com)
+![Campinas/SP](https://img.shields.io/badge/Campinas%2FSP-333333?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Buscando estágio](https://img.shields.io/badge/Buscando%20est%C3%A1gio-333333?style=for-the-badge&logoColor=white)
 
 </div>
 
 ---
 
-## About Me
+## Sobre mim
 
-Software Engineering student at PUC-Campinas (3rd year), focused on backend development and building scalable APIs with clean, well-structured code. Working with Python, Flask, JavaScript and SQL — developing RESTful APIs and modeling relational databases. I apply agile methodologies (Scrum/Kanban) and BPM concepts to deliver organized, maintainable software throughout the full development cycle.
+Estou no **6º semestre de Engenharia de Software na PUC-Campinas** (fev/2024 – previsão dez/2027), com foco em **back-end e full stack**. Trabalho com APIs REST, testes automatizados, segurança e arquitetura de software (SOLID, padrões GoF).
 
-Currently seeking a software engineering internship to contribute on real projects, grow alongside experienced teams and deliver value from day one. Available for on-site, hybrid or remote work.
+- Moro em Holambra, região de Campinas/SP
+- **Disponível para estágio presencial ou híbrido em Campinas**
+- Contato: [gabriellopeslonde@gmail.com](mailto:gabriellopeslonde@gmail.com) · [LinkedIn](https://www.linkedin.com/in/gabriel-lopes-londe-rodrigues-1a8154304/)
 
-> 📍 Campinas, São Paulo, Brasil &nbsp;|&nbsp; 🎓 PUC-Campinas — Computer Software Engineering &nbsp;|&nbsp; 🌐 English: Intermediate
->
-> ---
->
-> ## Tech Stack
->
-> **Languages**
->
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-> ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-> ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
->
-> **Frameworks & Libraries**
->
-> ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-> ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-> ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
->
-> **Databases & APIs**
->
-> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-> ![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-> ![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-> ![InfinitePay](https://img.shields.io/badge/InfinitePay%20API-6C47FF?style=for-the-badge&logo=stripe&logoColor=white)
->
-> **Tools & Methodologies**
->
-> ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-> ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-> ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-> ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
->
-> ---
->
-> ## Experience
->
-> ### Freelance Fullstack Developer — BlueShield Pro
-> **Freelance &nbsp;|&nbsp; Jan 2026 – Feb 2026 &nbsp;(2 months)**
->
-> Full-stack e-commerce application in production, serving 2,000+ clients. Built RESTful API with Node.js, integrated payment processing via InfinitePay API, and implemented HTTP security headers with Helmet.js.
->
-> **Stack:** `Node.js` `REST API Design` `InfinitePay API` `Helmet.js` `SQL` `JavaScript`
->
-> ---
->
-> ## Education
->
-> ### Pontifical Catholic University of Campinas — PUC-Campinas
-> **Bachelor's in Computer Software Engineering &nbsp;|&nbsp; Feb 2024 – Present**
->
-> 3rd-year student. Coursework includes data structures, algorithms, databases, software engineering, BPM, and agile methodologies.
->
-> **Key skills from academia:** `Oracle SQL Developer` `Python` `Scrum` `Kanban`
->
-> ---
->
-> ## Certifications
->
-> | Certificate | Issuer | Date |
-> |---|---|---|
-> | Python: Crie a sua primeira aplicação | Alura | Aug 2024 |
-> | C++: Conhecendo a linguagem e a STL | Alura | Sep 2024 |
-> | C: Conhecendo a Linguagem das Linguagens | Alura | Oct 2024 |
-> | Gemini e Node.js: Chatbot com IA do Google | Alura | Oct 2024 |
-> | Avançando com C++: performance e otimização | Alura | Oct 2024 |
-> | C: Recursos Avançados da Linguagem | Alura | Nov 2024 |
-> | C: Avançando na Linguagem | Alura | Nov 2024 |
->
-> > 🏆 7 certifications issued by Alura — [View on LinkedIn](https://www.linkedin.com/in/gabriel-lopes-londe-rodrigues-1a8154304/details/certifications/)
-> >
-> > ---
-> >
-> > ## Featured Projects
-> >
-> > | Project | Description | Stack | Status |
-> > |---|---|---|---|
-> > | [BlueShieldPro](https://github.com/Lopesloro/BlueShieldPro) | Full-stack e-commerce in production · 2,000+ clients served | Node.js, REST API, SQL | Production |
-> > | [PI-IV-2025](https://github.com/Lopesloro/PI-IV-2025) | Web platform connecting parents and children through educational activities | HTML, CSS, JS | Active |
-> > | [Projeto-Pi-Unico](https://github.com/Lopesloro/Projeto-Pi-Unico) | Integrative project — full-stack JavaScript application | JavaScript | Active |
-> > | [IAPC](https://github.com/Lopesloro/IAPC) | Full-stack web app with JS, CSS and HTML — academic integrative project | JavaScript | Active |
-> > | [Elite-culos](https://github.com/Lopesloro/Elite-culos) | E-commerce interface for eyewear retail | CSS, HTML, JS | Active |
-> >
-> > ---
-> >
-> > ## GitHub Stats
-> >
-> > <div align="center">
+---
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lopesloro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lopesloro&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+## Experiência
 
-</div>
+### Desenvolvedor Full Stack e Fundador — BlueShield Pro
+**jan/2026 – atual**
+
+- E-commerce em produção com **Node.js/Express** e **SQLite**, com autenticação usando **bcrypt**, cabeçalhos de segurança com **Helmet** e **rate limiting**
+- Integração de pagamentos com a **InfinitePay**, e-mails transacionais e deploy no **Render**
+- Sites e landing pages para pequenos negócios com **Next.js, React, TypeScript e Tailwind**
+- Medição e análise com **GA4, Google Tag Manager e Meta Pixel**
+
+---
+
+## Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [radar-de-reclamacoes](https://github.com/Lopesloro/radar-de-reclamacoes) | Projeto Integrador VI (2026). Classifica avaliações de clientes por assunto e prevê o volume de reclamações do mês seguinte. [Demo no Render](https://radar-de-reclamacoes.onrender.com) | Python, FastAPI, Jinja2, pytest (48 testes) |
+| [Gastos_Pessoais](https://github.com/Lopesloro/Gastos_Pessoais) | API REST de controle de gastos com arquitetura em camadas, SOLID, padrões Factory/Strategy/Observer, ADRs e diagramas C4 | Python, FastAPI, pytest |
+| [BlueShieldPro](https://github.com/Lopesloro/BlueShieldPro) | E-commerce em produção | Node.js, Express, SQLite |
+| [IAPC](https://github.com/Lopesloro/IAPC) | PC Builder AI: monta configurações de computador com apoio de IA | Node.js, Express, MySQL, API Google Gemini |
+| [App](https://github.com/Lopesloro/App) | Monta Looks: aplicativo mobile (em desenvolvimento) | Expo, React Native, TypeScript |
+| [Mozer](https://github.com/Lopesloro/Mozer) | Site institucional | Next.js 16, React 19, TypeScript, Tailwind v4 |
+
+---
+
+## Tecnologias
+
+**Linguagens**
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=databricks&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-111111?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-111111?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks e bibliotecas**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-333333?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-333333?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Bancos de dados**
+
+![SQLite](https://img.shields.io/badge/SQLite-111111?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-111111?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Ferramentas e metodologias**
+
+![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-333333?style=for-the-badge&logo=pytest&logoColor=white)
+![Render](https://img.shields.io/badge/Render-333333?style=for-the-badge&logo=render&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-333333?style=for-the-badge&logo=figma&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-333333?style=for-the-badge&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-333333?style=for-the-badge&logoColor=white)
+
+---
+
+## Certificações (Alura, 2024)
+
+| Curso | Data |
+|---|---|
+| Python: Crie a sua primeira aplicação | ago/2024 |
+| C++: Conhecendo a linguagem e a STL | set/2024 |
+| C: Conhecendo a Linguagem das Linguagens | out/2024 |
+| Gemini e Node.js: Chatbot com IA do Google | out/2024 |
+| Avançando com C++: performance e otimização | out/2024 |
+| C: Recursos Avançados da Linguagem | nov/2024 |
+| C: Avançando na Linguagem | nov/2024 |
+
+## Imersão
+
+- **StartSe — Imersão em Inovação e Tecnologia**, com visita técnica à Oracle e mentoria com líderes de iFood, Warren e Hospital Sírio-Libanês
+
+---
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Lopesloro&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Lopesloro&theme=dark&hide_border=true&background=111111&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=CCCCCC&dates=999999&stroke=444444&locale=pt_BR)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:444444,100:111111&height=110&section=footer" width="100%"/>
 
 </div>
-
----
-
-## Notable Experiences
-
-- **StartSe Immersion** (Jul 2026) — 3-day innovation program with mentors from iFood, Warren Investimentos and Hospital Sírio-Libanês
-- - **Oracle Tech Visit** (Jul 2026) — Hands-on exposure to AI assistants and database infrastructure at Oracle Brazil
- 
-  - ---
-
-  ## Connect
-
-  <div align="center">
-
-  [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-lopes-londe-rodrigues-1a8154304/)
-  [![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lopesloro)
-
-  </div>
-
-  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%"/>
-  </div>div>
